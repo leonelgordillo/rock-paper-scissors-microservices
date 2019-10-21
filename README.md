@@ -1,5 +1,7 @@
 # rock-paper-scissors
 
+Sample application used by a Node.js tutorial by Jon Peck
+
 A multi-player Rock, Paper, Scissors game written in Node.js.
 
 Players are automatically created per session. To test, use two browser sessions that don't share cookies. For example, you could use a regular browser window and an incognito / private browser window.
